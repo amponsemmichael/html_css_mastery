@@ -1,0 +1,28 @@
+* {
+  font-family: verdana;
+}
+
+.title {
+  font-size: 20px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.aim {
+  margin-top: 0;
+  color: grey;
+  font-size: 15px;
+}
+
+.description {
+  font-size: 14px;
+  width: 280px;
+  font-weight: 100;
+}
+
+.getStarted {
+  background-color: aqua;
+  color: #000;
+  border-radius: 10px;
+  padding: 5px 10px 5px 10px;
+}
