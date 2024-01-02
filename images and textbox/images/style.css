@@ -1,0 +1,28 @@
+img {
+  width: 300px;
+  height: 300px;
+  margin: 8px;
+  padding: 5px;
+  border: 2px solid gray;
+}
+
+.landscape {
+  border-radius: 15px;
+  opacity: 0.8;
+  background-color: yellow;
+}
+
+.nature {
+  border-radius: 50px;
+  filter: grayscale(50%);
+}
+.sky {
+  border-radius: 100px;
+  outline: 2px solid blue;
+  cursor: move;
+}
+.waterfall {
+  border-radius: 180px;
+  transition: transform 0.3s ease-in-out;
+  cursor: pointer;
+}

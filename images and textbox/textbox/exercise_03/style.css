@@ -1,0 +1,34 @@
+main {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+img {
+  width: 60px;
+  height: 50px;
+  border-radius: 35px;
+  margin-right: 10px;
+}
+
+.text {
+  width: 500px;
+  height: 25px;
+  margin-top: 5px;
+  margin-right: 15px;
+  border-style: groove;
+  border-radius: 10px;
+  font-family: tahoma;
+  font-size: 18px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+button {
+  color: #fff;
+  border-radius: 15px;
+  background-color: slateblue;
+  height: 30px;
+  width: 80px;
+  margin-top: 15px;
+  cursor: pointer;
+}

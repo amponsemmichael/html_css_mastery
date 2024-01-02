@@ -1,0 +1,30 @@
+main {
+  margin: 30px;
+}
+
+label {
+  color: grey !important;
+}
+
+.email {
+  width: 350px;
+  height: 20px;
+  color: aliceblue;
+  border-color: azure;
+  border-radius: 0%;
+}
+
+p {
+  font-size: 0.9rem;
+  font-family: arial;
+}
+.submit {
+  background-color: rgb(13, 188, 330) !important;
+  width: 350px;
+  height: 40px;
+  border-radius: 15px;
+  border-style: none;
+  color: #fff;
+  font-size: 1rem;
+  cursor: pointer;
+}
