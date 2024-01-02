@@ -1,0 +1,19 @@
+* {
+  font-family: arial;
+  text-align: center;
+}
+
+#question {
+  font-weight: 400;
+  font-style: italic;
+  font-size: large;
+  margin-top: 40px;
+}
+
+#modeofhelp {
+  font-size: small;
+}
+
+#option {
+  color: blue;
+}
